@@ -14,3 +14,5 @@ This project involved:
 - creating information storage formats in the Mongo database
 - implementing a search engine (calculating some parameters and using some formulas) that displays the most relevant files
 - creating an interface through which the user enters the searched words or sentences
+
+Technologies used: Eclipse, Spring Boot, Java, MongoDB
